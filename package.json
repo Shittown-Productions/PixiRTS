@@ -1,0 +1,20 @@
+{
+  "name": "pixirts",
+  "version": "1.0.0",
+  "description": "RTS Engine in PixiJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shittown-Productions/PixiRTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shittown-Productions/PixiRTS/issues"
+  },
+  "homepage": "https://github.com/Shittown-Productions/PixiRTS#readme"
+}
